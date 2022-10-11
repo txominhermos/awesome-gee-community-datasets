@@ -10,7 +10,7 @@ Tree species maps indicate the class membership probability of all possible clas
 
 ## High Resolution Map of leading tree species distribution
 
-Leading tree species map produced from a 2019 Landsat image composite, geographic and climate data, elevation derivatives, and remote sensing derived phenology following the framework described in Hermosilla et al. (xxxx). Regional classification models were generated based on Canada??s National Forest Inventory using a 150x150 km tiling system. The leading tree species are defined by representing the most voted tree species from the Random Forests classification models (i.e. the class with the highest class membership probability).
+Leading tree species map produced from a 2019 Landsat image composite, geographic and climate data, elevation derivatives, and remote sensing derived phenology following the framework described in Hermosilla et al. (2022). Regional classification models were generated based on Canada??s National Forest Inventory using a 150x150 km tiling system. The leading tree species are defined by representing the most voted tree species from the Random Forests classification models (i.e. the class with the highest class membership probability).
 
 For an overview on the data, image processing, and methods applied, as well as information on independent accuracy assessment of the data, see Hermosilla et al. (2022) https://doi.org/10.1016/j.rse.2022.113276
 
